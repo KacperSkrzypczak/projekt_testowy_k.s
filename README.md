@@ -2,4 +2,4 @@
 
 ## to dla pracownika:
 
-- [ ] napisz kto rządzi
+- [x] napisz kto rządzi
